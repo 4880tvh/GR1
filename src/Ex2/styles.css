@@ -1,0 +1,107 @@
+  .grid-container-1 {
+    display:grid;
+    grid-template-columns: auto ;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-2 {
+    display:grid;
+    grid-template-columns: auto auto;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-3 {
+    display:grid;
+    grid-template-columns: auto auto auto ;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-4 {
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-5 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-6 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-7 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-8 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-9 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-10 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto ;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-11 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto  ;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+  .grid-container-12 {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto ;
+    background-color: #ffffff;
+    padding: auto;
+    /* width:100%;
+    height: auto; */
+  }
+
+
+ /* .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding:auto;
+    margin:auto;
+    cursor: pointer;
+  }  */
+
+

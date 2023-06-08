@@ -1,0 +1,52 @@
+
+.TableForm {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.TableForm_div{
+    padding: 64px 128px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.TableForm_input{
+    width: 320px;
+    height: 32px;
+    display: flex;
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.TableForm_submit{
+    padding: 64px 128px;
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+}
+.TableForm_button{
+    border-radius: 8px;
+    padding:12px 40px ;
+    border:2px solid #1E90FF;
+    background-color: #1E90FF;
+    font-size: 24px;
+    color:white;
+    cursor: pointer;
+}
+
+.TableData{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.TableData_style{
+    border: 1px solid black;
+  border-collapse: collapse;
+  padding:8px ;
+}
